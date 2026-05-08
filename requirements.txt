@@ -1,0 +1,12 @@
+# Habit Tracker Requirements
+# 
+# The application uses only Python standard library.
+# No external dependencies required!
+#
+# Python 3.8+ required
+#
+# To run tests:
+# python3 tests/test_suite.py
+#
+# To install in development mode:
+# pip install -e .
